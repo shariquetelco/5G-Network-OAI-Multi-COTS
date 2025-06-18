@@ -1,7 +1,14 @@
+[![Author](https://img.shields.io/badge/author-shariquetelco-blue)](https://github.com/shariquetelco)
+[![Docker](https://img.shields.io/badge/docker-ready-blue)](https://www.docker.com/)
+[![Ubuntu](https://img.shields.io/badge/platform-Ubuntu%2020.04%2F22.04-blue)](https://ubuntu.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![OpenAirInterface](https://img.shields.io/badge/OAI-5G--Ready-brightgreen)](https://openairinterface.org/)
+
+
 # 📡 5G-Network-OAI-Multi-COTS
 
 This repository provides a complete guide to deploying a standalone 5G network using OpenAirInterface (OAI) with commercial off-the-shelf (COTS) hardware. It walks you through building a core network, configuring a base station (gNodeB), connecting real user equipment (UE), and integrating performance monitoring tools.
-[![Author](https://img.shields.io/badge/author-shariquetelco-blue)](https://github.com/shariquetelco)
+
 
 
 # 📡 5G-Network-OAI-Multi-COTS
